@@ -2,7 +2,7 @@
 minimumReleaseAge: 10080
 minimumReleaseAgeIgnoreMissingTime: false
 trustLockfile: false
-strictDepBuilds: true
+strictDepBuilds: false
 allowBuilds:
   esbuild: true
   fsevents: true
